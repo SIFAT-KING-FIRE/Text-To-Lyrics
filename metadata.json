@@ -1,0 +1,6 @@
+{
+  "name": "Song Lyrics Text to Speech",
+  "description": "Transform text, lyrics, and uploaded video clip references into rhythmic musical pure acapella speech with real-time synchronized karaoke lyrics, rainy neon visuals, and vocal styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
